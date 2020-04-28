@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "gitpet-daf77"
+  },
+  "targets": {
+    "gitpet-daf77": {
+      "hosting": {
+        "angular-test": [
+          "gitpet-daf77"
+        ]
+      }
+    }
   }
 }
